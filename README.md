@@ -1,7 +1,7 @@
 # RMP Decentralized Multi-Drone Simulation
 This project was developed at the UCSB Research Mentorship Program in collaboration with Bryce Ferguson. The goal is to simulate a multi-agent coverage system where the agents are given limited information about their environments, and are attempting to cover a weighted map effectively.
 
-My research paper on this project can be found [here]{Shah-Adit_Paper.pdf}.
+My research paper on this project can be found [here](Shah-Adit_Paper.pdf).
 
 ##  Usage
 
